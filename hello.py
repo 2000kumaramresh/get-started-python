@@ -1,4 +1,6 @@
 #this is my first commit by Amresh Kumar.
+# This is my second commit and want to do changes in two files using single cvommit.
+
 
 from cloudant import Cloudant
 from flask import Flask, render_template, request, jsonify
